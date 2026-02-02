@@ -8,4 +8,4 @@ How to run
 Compile and run the program using the terminal:
 
 javac Main.java
-java Main
+https://www.onlinegdb.com/online_java_compiler
